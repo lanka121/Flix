@@ -56,6 +56,6 @@ The following **additional** user stories are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src="http://recordit.co/eAioESO3iz width=250><br>
+<img src="http://recordit.co/eAioESO3iz.gif" width=250><br>
 
 
